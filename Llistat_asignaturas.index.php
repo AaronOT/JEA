@@ -4,7 +4,7 @@
 	<title>Llistat asignaturas</title>
 </head>
 <body>
-	asignaturas
+	Pepe Garcia
 
 </body>
 </html>
