@@ -4,7 +4,7 @@
 	<title>Llistat asignaturas</title>
 </head>
 <body>
-	asignaturas
+	Sergio Jimenez
 
 </body>
 </html>
